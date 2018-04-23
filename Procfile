@@ -1,1 +1,1 @@
-web: python examples/flask-echo/app.py runserver 0.0.0.0:8000
+web: python app.py
